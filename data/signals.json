@@ -1,0 +1,204 @@
+{
+  "as_of": "2025-09-03T08:11:08Z",
+  "rebalance_hint": "quarterly",
+  "cash_target_pct": 20.0,
+  "positions": [
+    {
+      "ticker": "MSFT",
+      "segment": "safe",
+      "target_weight_pct": 10.0,
+      "max_weight_pct": 6.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    },
+    {
+      "ticker": "AAPL",
+      "segment": "safe",
+      "target_weight_pct": 10.0,
+      "max_weight_pct": 6.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    },
+    {
+      "ticker": "JNJ",
+      "segment": "safe",
+      "target_weight_pct": 10.0,
+      "max_weight_pct": 6.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    },
+    {
+      "ticker": "PG",
+      "segment": "safe",
+      "target_weight_pct": 10.0,
+      "max_weight_pct": 6.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    },
+    {
+      "ticker": "V",
+      "segment": "safe",
+      "target_weight_pct": 10.0,
+      "max_weight_pct": 6.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    },
+    {
+      "ticker": "PEP",
+      "segment": "safe",
+      "target_weight_pct": 10.0,
+      "max_weight_pct": 6.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    },
+    {
+      "ticker": "COST",
+      "segment": "safe",
+      "target_weight_pct": 10.0,
+      "max_weight_pct": 6.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    },
+    {
+      "ticker": "WMT",
+      "segment": "safe",
+      "target_weight_pct": 10.0,
+      "max_weight_pct": 6.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    },
+    {
+      "ticker": "PLTR",
+      "segment": "risky",
+      "target_weight_pct": 2.5,
+      "max_weight_pct": 1.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    },
+    {
+      "ticker": "TSLA",
+      "segment": "risky",
+      "target_weight_pct": 2.5,
+      "max_weight_pct": 1.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    },
+    {
+      "ticker": "LMT",
+      "segment": "analyst",
+      "target_weight_pct": 3.75,
+      "max_weight_pct": 5.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    },
+    {
+      "ticker": "XOM",
+      "segment": "analyst",
+      "target_weight_pct": 3.75,
+      "max_weight_pct": 5.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    },
+    {
+      "ticker": "NEE",
+      "segment": "analyst",
+      "target_weight_pct": 3.75,
+      "max_weight_pct": 5.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    },
+    {
+      "ticker": "GOOGL",
+      "segment": "analyst",
+      "target_weight_pct": 3.75,
+      "max_weight_pct": 5.0,
+      "stop_loss_pct": -15,
+      "thesis_break_triggers": [
+        "Earnings/guidance miss (8-K Item 2.02)",
+        "Ratings downgrade to junk",
+        "Regulatory denial of key product"
+      ],
+      "confidence": 3,
+      "citations": []
+    }
+  ],
+  "notes": "Starter static allocation; replace with research engine."
+}
